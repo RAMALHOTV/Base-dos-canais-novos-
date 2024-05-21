@@ -16,11 +16,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
+
 <channels>
 <channel>
 <name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-01[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/sXhk4i0k</externallink>
+<externallink>[https://raw.githubusercontent.com/RAMALHOTV/O-Rei-do-Gado/main/README.md](https://pastebin.com/raw/sXhk4i0k</externallink>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
 <info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
 </channel>
