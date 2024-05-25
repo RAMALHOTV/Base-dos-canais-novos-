@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
+<item>
+<title>[B]Addon RamalhoIPTV [/B]</title>
+<link>plugin://</link>
+<link>plugin://</link>
+<thumbnail>https://i.imgur.com/OhHEvFm.jpg</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]Colabere com o Addon RamalhoIPTV Doação  via PIx (44)998656144 [COLOR deeppink]|[/COLOR]</info>
+</item>
 
 <item>
 <title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR -Principal[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV  [/B][/COLOR]</title>
