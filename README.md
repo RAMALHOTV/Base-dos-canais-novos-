@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[B]Addon RamalhoIPTV [COLOR light green]|[/COLOR](ussen o F4mTester-inputstream) [COLOR deeppink]|[/COLOR][/B]</title>
+<title>[B]Addon RamalhoIPTV [COLOR light green[/COLOR](usar o F4mTester-inputstream) [/COLOR][/B]</title>
 <link>plugin://</link>
 <link>plugin://</link>
 <thumbnail>https://i.imgur.com/OhHEvFm.jpg</thumbnail>
