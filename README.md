@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[B]Addon RamalhoIPTV [COLOR deeppink](usar o F4mTester-inputstream) [/COLOR][B]</title>
+<title>Addon RamalhoIPTV [COLOR deeppink](usar o F4mTester-inputstream) [/COLOR]</title>
 <link>plugin://</link>
 <link>plugin://</link>
 <thumbnail>https://i.imgur.com/OhHEvFm.jpg</thumbnail>
@@ -69,7 +69,7 @@
 
 
 <item>
-<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-06 [/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B]WebTV[/B][/COLOR]</title>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-06 WebTV[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B]RamalhoIPTV[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://tse3.mm.bing.net/th?id=OIP.01RPuI2D3XEiLSiA7-Re-wHaFW&pid=Api&P=0&h=180</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
