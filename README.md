@@ -103,6 +103,6 @@
 <link>http://ignorame</link>
 <thumbnail>https://i.ytimg.com/vi/ul0eqlqd3mw/maxresdefault.jpg</thumbnail>
 <fanart>https://auvaromaia.com/wp-content/uploads/2017/01/Canais-tv-paga.jpg</fanart>
-<externallink>https://pastebin.com/raw/NhfAPxG4</externallink>
+<externallink>https://raw.githubusercontent.com/rogerioronin/Canais-BR/main/Lista%20de%20canais</externallink>
 </item>
 
