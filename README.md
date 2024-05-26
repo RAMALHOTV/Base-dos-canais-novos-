@@ -66,10 +66,16 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/basef4mTester/main/README.md</externallink>
 </item>
 
-
+<item>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-06 [/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1324476546791448576/4wT1c-R1_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/F4mtester5.1/main/README.md</externallink>
+</item>
 
 <item>
-<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-06 WebTV[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B]RamalhoIPTV[/B][/COLOR]</title>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR- WebTV[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B]RamalhoIPTV[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://tse3.mm.bing.net/th?id=OIP.01RPuI2D3XEiLSiA7-Re-wHaFW&pid=Api&P=0&h=180</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
