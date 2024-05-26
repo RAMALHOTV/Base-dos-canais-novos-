@@ -93,7 +93,16 @@
 <item>
 <title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR- WebTV[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B]RamalhoIPTV[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://tse3.mm.bing.net/th?id=OIP.01RPuI2D3XEiLSiA7-Re-wHaFW&pid=Api&P=0&h=180</thumbnail>
-<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<thumbnail>https://tse4.mm.bing.net/th?id=OIP.QkcffFP4JZwKRj93uhDQLwEsEf&pid=Api&P=0&h=180</thumbnail>
+<fanart>[https://i.imgur.com/OhHEvFm.jpg](https://tse2.mm.bing.net/th?id=OIP.vEUWWd3B-ZVues6V6sLByQHaEK&pid=Api&P=0&h=180)</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/webtv/main/README.md</externallink>
 </item>
+
+<item>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV[COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR-Alternativos  [/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.ytimg.com/vi/ul0eqlqd3mw/maxresdefault.jpg</thumbnail>
+<fanart>https://auvaromaia.com/wp-content/uploads/2017/01/Canais-tv-paga.jpg</fanart>
+<externallink>https://pastebin.com/edit/nNekamZj</externallink>
+</item>
+
