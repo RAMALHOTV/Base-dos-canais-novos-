@@ -40,6 +40,14 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/Servidor10/main/README.md</externallink>
 </item>
 
+<item>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR -VIP Testes[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV  [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<externallink>https://pastebin.com/raw/ezqzVWMW</externallink>
+</item>
+
 
 
 
