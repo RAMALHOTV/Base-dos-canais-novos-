@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR -Brasil TV[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV  [/B][/COLOR]</title>
+<title>>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLOR yellow][B][/B][/COLOR]IPTV [COLOR yellow]|[/COLOR] [COLOR white] SERVIDOR -Brazil TV[/COLOR] [COLOR yellow]|[/COLOR][COLOR turquoise][B] RamalhoIPTV  [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://braziltv.yolasite.com/resources/logonew.png</thumbnail>
 <fanart>https://braziltv.yolasite.com/resources/logonew.png</fanart>
